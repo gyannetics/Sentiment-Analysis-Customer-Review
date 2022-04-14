@@ -1,6 +1,6 @@
-#  Sentiment-Analysis-Major-Project 
+#  Sentiment-Analysis-Customer-Review - Deploy on Heroku
 
-This is a real world project on Sentiment Analysis which takes in text input from the user and predicts if the sentiment of the text is positive or negative.
+This is a project on Sentiment Analysis which takes in text input from the user and predicts if the sentiment of the text is positive or negative.
 
 # Steps followed in making the project 
 
@@ -29,4 +29,4 @@ This is a real world project on Sentiment Analysis which takes in text input fro
 
 
 The following is the link to the web app:
-# https://sent-analysis-app.herokuapp.com/  
+# https://sentiment-analysis-cust-review.herokuapp.com/ 
